@@ -11,7 +11,7 @@ pip show streamlit
 
 it should be run in coHere's a sample README file based on the contents you provided:
 
-```markdown
+
 # PriceProbe
 
 PriceProbe is a revolutionary chatbot designed to enhance the e-commerce experience by providing real-time product comparisons, exclusive discounts, and personalized recommendations. It simplifies decision-making for online shoppers, maximizing both convenience and savings.
