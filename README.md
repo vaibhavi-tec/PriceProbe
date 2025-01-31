@@ -32,7 +32,7 @@ pip install streamlit
 You can run PriceProbe using either PyCharm or Visual Studio. To start the application, execute the following command in your command prompt or terminal:
 
 ```bash
-python main.py
+streamlit run main.py
 ```
 
 ## Project Structure
