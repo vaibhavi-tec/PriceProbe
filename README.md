@@ -7,7 +7,7 @@ pip install altair
 
 pip show altair
 
-pip show streamlit
+pip install streamlit
 
 it should be run in coHere's a sample README file based on the contents you provided:
 
