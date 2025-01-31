@@ -24,7 +24,7 @@ To get started with PriceProbe, you'll need to install the required packages. Yo
 pip install altair.vegalite.v4
 pip install altair
 pip show altair
-pip show streamlit
+pip install streamlit
 ```
 
 ## Running the Application
