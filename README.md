@@ -9,6 +9,16 @@ pip show altair
 
 pip install streamlit
 
+pip show streamlit-option-menu
+
+pip install firebase-admin
+
+pip install python-dotenv
+
+pip install streamlit-lottie
+
+pip install beautifulsoup4
+
 it should be run in coHere's a sample README file based on the contents you provided:
 
 
@@ -21,10 +31,17 @@ PriceProbe is a revolutionary chatbot designed to enhance the e-commerce experie
 To get started with PriceProbe, you'll need to install the required packages. You can do this by running the following commands in your command prompt or terminal:
 
 ```bash
+
 pip install altair.vegalite.v4
 pip install altair
 pip show altair
 pip install streamlit
+pip show streamlit-option-menu
+pip install firebase-admin
+pip install python-dotenv
+pip install streamlit-lottie
+pip install beautifulsoup4
+
 ```
 
 ## Running the Application
